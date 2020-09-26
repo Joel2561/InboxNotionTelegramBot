@@ -1,0 +1,10 @@
+{
+  "telegram-bot-token": "",
+  "allowed_user_id": "",
+
+
+  "notion-token": "",
+  "inbox_table": {
+      "table_url": ""
+  }
+}
