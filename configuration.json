@@ -1,9 +1,9 @@
 {
-  "telegram-bot-token": "",
-  "allowed_user_id": "",
+  "telegram-bot-token": "2002913627:AAGxZUqARiHfciAy93AQCLYhnSYYd-IHfXU",
+  "allowed_user_id": "@yujiale",
 
 
-  "notion-token": "",
+  "notion-token": "cdfc89b450887d736754a2774f90f7690ca72d301ecd4e234f41513fbf37d8c42dbe0479c66aa4b8bdb09d2af696438aeb13c855eafbe960a735889d96186e315ce4d1c9427c6d76322e9934f261",
   "inbox_table": {
       "table_url": ""
   }
